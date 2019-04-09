@@ -1,0 +1,9 @@
+account name: storagemodoo
+
+key1
+key: vOXja2G+08R8aPq4NWvrDKnXktotvJdChVoEUnb1ZDS1WNN7sbCJiXCAjp0tvvETJqzaJwRwhvl3hQBI4QJWdw==
+connection string: DefaultEndpointsProtocol=https;AccountName=storagemodoo;AccountKey=vOXja2G+08R8aPq4NWvrDKnXktotvJdChVoEUnb1ZDS1WNN7sbCJiXCAjp0tvvETJqzaJwRwhvl3hQBI4QJWdw==;EndpointSuffix=core.windows.net
+
+key2
+key: EXzHXKlEnwGTe7rXNfKsSQyOFsJsJ8xStNnxKivOB6rSOdKAGbGuv+jUw5mORUER+bUJqKsCb0DfIIU2fiGfbQ==
+connection string: DefaultEndpointsProtocol=https;AccountName=storagemodoo;AccountKey=EXzHXKlEnwGTe7rXNfKsSQyOFsJsJ8xStNnxKivOB6rSOdKAGbGuv+jUw5mORUER+bUJqKsCb0DfIIU2fiGfbQ==;EndpointSuffix=core.windows.net
